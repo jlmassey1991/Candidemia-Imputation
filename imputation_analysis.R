@@ -25,7 +25,7 @@ library(readr)
 
 sessionInfo()
 
-#setwd("~/EIS/Candidemia/Candidemia mortality MDB/Data/")
+#setwd("XXXX")
 
 #loading environment
 load('candidemiaimpute_AF.RData')
